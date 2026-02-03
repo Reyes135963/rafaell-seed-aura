@@ -1,0 +1,2250 @@
+{
+  "Faringitis Estreptocócica": [
+    {
+      "diferencial": "Croup (Laringotraqueítis)",
+      "cie_origen": "J02.0",
+      "cie_diferencial": "J05.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Faringitis Estreptocócica J02.0"
+    }
+  ],
+  "Faringitis Aguda": [
+    {
+      "diferencial": "Epiglotitis",
+      "cie_origen": "J02.8 / J02.9",
+      "cie_diferencial": "J05.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Faringitis Aguda J02.8"
+    },
+    {
+      "diferencial": "Absceso Periamigdalino",
+      "cie_origen": "J02.8 / J02.9",
+      "cie_diferencial": "J36",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Faringitis Aguda J02.8"
+    },
+    {
+      "diferencial": "Absceso Retrofaríngeo",
+      "cie_origen": "J02.8 / J02.9",
+      "cie_diferencial": "L02.11",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Faringitis Aguda J02.8"
+    },
+    {
+      "diferencial": "Traqueítis Bacteriana",
+      "cie_origen": "J02.8 / J02.9",
+      "cie_diferencial": "J04.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Faringitis Aguda J02.8"
+    },
+    {
+      "diferencial": "Mononucleosis Infecciosa",
+      "cie_origen": "J02.8 / J02.9",
+      "cie_diferencial": "B27.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Faringitis Aguda J02.8"
+    },
+    {
+      "diferencial": "Síndrome de Lemierre",
+      "cie_origen": "J02.8 / J02.9",
+      "cie_diferencial": "G08",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Faringitis Aguda J02.8"
+    },
+    {
+      "diferencial": "ERGE (Reflujo Gastroesofágico)",
+      "cie_origen": "J02.8 / J02.9",
+      "cie_diferencial": "K21.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Faringitis Aguda J02.8"
+    },
+    {
+      "diferencial": "Rinitis Alérgica / Sinusitis",
+      "cie_origen": "J02.8 / J02.9",
+      "cie_diferencial": "J30.9 / J32.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Faringitis Aguda J02.8"
+    },
+    {
+      "diferencial": "Sinusitis (Rinosinusitis)",
+      "cie_origen": "J02.8 / J02.10",
+      "cie_diferencial": "J01.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Faringitis Aguda J02.8"
+    }
+  ],
+  "Amigdalitis Estreptocócica": [
+    {
+      "diferencial": "Enfermedad de Kawasaki",
+      "cie_origen": "J03.0",
+      "cie_diferencial": "M30.3",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Amigdalitis Estreptocócica J03."
+    }
+  ],
+  "Amigdalitis Aguda": [
+    {
+      "diferencial": "Síndrome de Stevens-Johnson",
+      "cie_origen": "J03.8 / J03.9",
+      "cie_diferencial": "L51.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Amigdalitis Aguda J03.8 J03.9"
+    },
+    {
+      "diferencial": "Estomatitis Aftosa",
+      "cie_origen": "J03.8 / J03.9",
+      "cie_diferencial": "K12.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Amigdalitis Aguda J03.8 J03.9"
+    },
+    {
+      "diferencial": "Angioedema",
+      "cie_origen": "J03.8 / J03.9",
+      "cie_diferencial": "T78.3",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Amigdalitis Aguda J03.8 J03.9"
+    },
+    {
+      "diferencial": "Otitis Media (Dolor referido)",
+      "cie_origen": "J03.8 / J03.9",
+      "cie_diferencial": "H66.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Amigdalitis Aguda J03.8 J03.9"
+    }
+  ],
+  "Croup (Laringotraqueítis)": [
+    {
+      "diferencial": "Epiglotitis",
+      "cie_origen": "J05.0",
+      "cie_diferencial": "J05.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Croup (Laringotraqueítis)"
+    },
+    {
+      "diferencial": "Traqueítis Bacteriana",
+      "cie_origen": "J05.0",
+      "cie_diferencial": "J04.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Croup (Laringotraqueítis)"
+    },
+    {
+      "diferencial": "Absceso Periamigdalino",
+      "cie_origen": "J05.0",
+      "cie_diferencial": "J36",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Croup (Laringotraqueítis)"
+    },
+    {
+      "diferencial": "Absceso Retrofaríngeo",
+      "cie_origen": "J05.0",
+      "cie_diferencial": "J39.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Croup (Laringotraqueítis)"
+    },
+    {
+      "diferencial": "Aspiración de Cuerpo Extraño",
+      "cie_origen": "J05.0",
+      "cie_diferencial": "T17.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Croup (Laringotraqueítis)"
+    },
+    {
+      "diferencial": "Angioedema",
+      "cie_origen": "J05.0",
+      "cie_diferencial": "T78.3",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Croup (Laringotraqueítis)"
+    },
+    {
+      "diferencial": "Laringomalacia",
+      "cie_origen": "J05.0",
+      "cie_diferencial": "Q31.5",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Croup (Laringotraqueítis)"
+    },
+    {
+      "diferencial": "Estenosis Subglótica",
+      "cie_origen": "J05.0",
+      "cie_diferencial": "J38.6",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Croup (Laringotraqueítis)"
+    },
+    {
+      "diferencial": "Hemangioma Subglótico",
+      "cie_origen": "J05.0",
+      "cie_diferencial": "D18.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Croup (Laringotraqueítis)"
+    },
+    {
+      "diferencial": "Difteria Laríngea",
+      "cie_origen": "J05.0",
+      "cie_diferencial": "A36.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Croup (Laringotraqueítis)"
+    }
+  ],
+  "Epiglotitis Aguda": [
+    {
+      "diferencial": "Crup (Laringotraqueítis)",
+      "cie_origen": "J05.1",
+      "cie_diferencial": "J05.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Epiglotitis Aguda J05.1"
+    },
+    {
+      "diferencial": "Angioedema",
+      "cie_origen": "J05.1",
+      "cie_diferencial": "T78.3",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Epiglotitis Aguda J05.1"
+    },
+    {
+      "diferencial": "Absceso Retrofaríngeo",
+      "cie_origen": "J05.1",
+      "cie_diferencial": "J39.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Epiglotitis Aguda J05.1"
+    },
+    {
+      "diferencial": "Absceso Periamigdalino",
+      "cie_origen": "J05.1",
+      "cie_diferencial": "J36",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Epiglotitis Aguda J05.1"
+    },
+    {
+      "diferencial": "Traqueítis Bacteriana",
+      "cie_origen": "J05.1",
+      "cie_diferencial": "J04.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Epiglotitis Aguda J05.1"
+    },
+    {
+      "diferencial": "Cuerpo Extraño en Vía Aérea",
+      "cie_origen": "J05.1",
+      "cie_diferencial": "T17.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Epiglotitis Aguda J05.1"
+    },
+    {
+      "diferencial": "Difteria (Laríngea)",
+      "cie_origen": "J05.1",
+      "cie_diferencial": "A36.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Epiglotitis Aguda J05.1"
+    },
+    {
+      "diferencial": "Amigdalitis Lingual",
+      "cie_origen": "J05.1",
+      "cie_diferencial": "J03.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Epiglotitis Aguda J05.1"
+    }
+  ],
+  "Absceso Periamigdalino": [
+    {
+      "diferencial": "Celulitis Periamigdalina",
+      "cie_origen": "J36",
+      "cie_diferencial": "L03.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Absceso Periamigdalino J36"
+    },
+    {
+      "diferencial": "Mononucleosis Infecciosa",
+      "cie_origen": "J36",
+      "cie_diferencial": "B27.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Absceso Periamigdalino J36"
+    },
+    {
+      "diferencial": "Absceso Retrofaríngeo",
+      "cie_origen": "J36",
+      "cie_diferencial": "J39.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Absceso Periamigdalino J36"
+    },
+    {
+      "diferencial": "Epiglotitis",
+      "cie_origen": "J36",
+      "cie_diferencial": "J05.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Absceso Periamigdalino J36"
+    },
+    {
+      "diferencial": "Angina de Ludwig",
+      "cie_origen": "J36",
+      "cie_diferencial": "K12.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Absceso Periamigdalino J36"
+    },
+    {
+      "diferencial": "Absceso Dental (Retromolar)",
+      "cie_origen": "J36",
+      "cie_diferencial": "K04.7",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Absceso Periamigdalino J36"
+    },
+    {
+      "diferencial": "Linfoma (No Hodgkin)",
+      "cie_origen": "J36",
+      "cie_diferencial": "C85.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Absceso Periamigdalino J36"
+    },
+    {
+      "diferencial": "Difteria",
+      "cie_origen": "J36",
+      "cie_diferencial": "A36.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Absceso Periamigdalino J36"
+    },
+    {
+      "diferencial": "Cuerpo Extraño (Faringe)",
+      "cie_origen": "J36",
+      "cie_diferencial": "T17.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Absceso Periamigdalino J36"
+    }
+  ],
+  "Absceso Retrofaríngeo": [
+    {
+      "diferencial": "Absceso Periamigdalino (Quinsy)",
+      "cie_origen": "J39.0",
+      "cie_diferencial": "J36",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Absceso Retrofaríngeo J39.0"
+    },
+    {
+      "diferencial": "Epiglotitis",
+      "cie_origen": "J39.0",
+      "cie_diferencial": "J05.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Absceso Retrofaríngeo J39.0"
+    },
+    {
+      "diferencial": "Angina de Ludwig",
+      "cie_origen": "J39.0",
+      "cie_diferencial": "K12.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Absceso Retrofaríngeo J39.0"
+    },
+    {
+      "diferencial": "Síndrome de Lemierre",
+      "cie_origen": "J39.0",
+      "cie_diferencial": "I80.8",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Absceso Retrofaríngeo J39.0"
+    },
+    {
+      "diferencial": "Meningitis Bacteriana",
+      "cie_origen": "J39.0",
+      "cie_diferencial": "G00.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Absceso Retrofaríngeo J39.0"
+    },
+    {
+      "diferencial": "Osteomielitis Cervical",
+      "cie_origen": "J39.0",
+      "cie_diferencial": "M86.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Absceso Retrofaríngeo J39.0"
+    },
+    {
+      "diferencial": "Enfermedad de Pott (TB Espinal)",
+      "cie_origen": "J39.0",
+      "cie_diferencial": "A18.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Absceso Retrofaríngeo J39.0"
+    },
+    {
+      "diferencial": "Aspiración de Cuerpo Extraño",
+      "cie_origen": "J39.0",
+      "cie_diferencial": "T17.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Absceso Retrofaríngeo J39.0"
+    }
+  ],
+  "Traqueítis Bacteriana": [
+    {
+      "diferencial": "Crup (Laringotraqueobronquitis)",
+      "cie_origen": "J04.1",
+      "cie_diferencial": "J05.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Traqueítis Bacteriana J04.1"
+    },
+    {
+      "diferencial": "Epiglotitis",
+      "cie_origen": "J04.1",
+      "cie_diferencial": "J05.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Traqueítis Bacteriana J04.1"
+    },
+    {
+      "diferencial": "Absceso Retrofaríngeo",
+      "cie_origen": "J04.1",
+      "cie_diferencial": "J39.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Traqueítis Bacteriana J04.1"
+    },
+    {
+      "diferencial": "Absceso Periamigdalino",
+      "cie_origen": "J04.1",
+      "cie_diferencial": "J36",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Traqueítis Bacteriana J04.1"
+    },
+    {
+      "diferencial": "Aspiración de Cuerpo Extraño",
+      "cie_origen": "J04.1",
+      "cie_diferencial": "T17.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Traqueítis Bacteriana J04.1"
+    },
+    {
+      "diferencial": "Angioedema",
+      "cie_origen": "J04.1",
+      "cie_diferencial": "T78.3",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Traqueítis Bacteriana J04.1"
+    },
+    {
+      "diferencial": "Difteria",
+      "cie_origen": "J04.1",
+      "cie_diferencial": "A36.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Traqueítis Bacteriana J04.1"
+    },
+    {
+      "diferencial": "Neumonía Bacteriana",
+      "cie_origen": "J04.1",
+      "cie_diferencial": "J15.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Traqueítis Bacteriana J04.1"
+    },
+    {
+      "diferencial": "Laringomalacia",
+      "cie_origen": "J04.1",
+      "cie_diferencial": "Q31.5",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Traqueítis Bacteriana J04.1"
+    },
+    {
+      "diferencial": "Estenosis Subglótica",
+      "cie_origen": "J04.1",
+      "cie_diferencial": "J38.6",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Traqueítis Bacteriana J04.1"
+    }
+  ],
+  "Mononucleosis Infecciosa": [
+    {
+      "diferencial": "Faringitis y Amigdalitis (Estreptocócica)",
+      "cie_origen": "B27.0",
+      "cie_diferencial": "J02.0 / J03.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Mononucleosis Infecciosa B27.0"
+    },
+    {
+      "diferencial": "Infección por Citomegalovirus (CMV)",
+      "cie_origen": "B27.0",
+      "cie_diferencial": "B27.1 / B25.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Mononucleosis Infecciosa B27.0"
+    },
+    {
+      "diferencial": "Toxoplasmosis",
+      "cie_origen": "B27.0",
+      "cie_diferencial": "B58.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Mononucleosis Infecciosa B27.0"
+    },
+    {
+      "diferencial": "Linfoma (Burkitt / No Hodgkin)",
+      "cie_origen": "B27.0",
+      "cie_diferencial": "C83.7 / C85.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Mononucleosis Infecciosa B27.0"
+    },
+    {
+      "diferencial": "Virus de la Inmunodeficiencia Humana (VIH)",
+      "cie_origen": "B27.0",
+      "cie_diferencial": "B20",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Mononucleosis Infecciosa B27.0"
+    },
+    {
+      "diferencial": "Infección por HHV-6 (Exantema Súbito)",
+      "cie_origen": "B27.0",
+      "cie_diferencial": "B08.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Mononucleosis Infecciosa B27.0"
+    },
+    {
+      "diferencial": "Difteria",
+      "cie_origen": "B27.0",
+      "cie_diferencial": "A36.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Mononucleosis Infecciosa B27.0"
+    },
+    {
+      "diferencial": "Hepatitis Viral",
+      "cie_origen": "B27.0",
+      "cie_diferencial": "B15 - B1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Mononucleosis Infecciosa B27.0"
+    }
+  ],
+  "Síndrome de Lemierre": [
+    {
+      "diferencial": "Faringitis y Amigdalitis Aguda",
+      "cie_origen": "I80.8",
+      "cie_diferencial": "J02.9 / J03.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Síndrome de Lemierre I80.8"
+    },
+    {
+      "diferencial": "Mononucleosis Infecciosa",
+      "cie_origen": "I80.8",
+      "cie_diferencial": "B27.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Síndrome de Lemierre I80.8"
+    },
+    {
+      "diferencial": "Absceso Periamigdalino",
+      "cie_origen": "I80.8",
+      "cie_diferencial": "J36",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Síndrome de Lemierre I80.8"
+    },
+    {
+      "diferencial": "Absceso Retrofaríngeo",
+      "cie_origen": "I80.8",
+      "cie_diferencial": "J39.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Síndrome de Lemierre I80.8"
+    },
+    {
+      "diferencial": "Embolismo Pulmonar (Séptico)",
+      "cie_origen": "I80.8",
+      "cie_diferencial": "I26.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Síndrome de Lemierre I80.8"
+    },
+    {
+      "diferencial": "Septicemia (Bacteremia por Fusobacterium)",
+      "cie_origen": "I80.8",
+      "cie_diferencial": "A41.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Síndrome de Lemierre I80.8"
+    },
+    {
+      "diferencial": "Adenitis Cervical Supurativa",
+      "cie_origen": "I80.8",
+      "cie_diferencial": "L04.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Síndrome de Lemierre I80.8"
+    }
+  ],
+  "Enfermedad por Reflujo Gastroesofágico (ERGE)": [
+    {
+      "diferencial": "Enfermedad por Úlcera Péptica",
+      "cie_origen": "K21.9",
+      "cie_diferencial": "K27",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Enfermedad por Reflujo Gastroes"
+    },
+    {
+      "diferencial": "Angina Inestable",
+      "cie_origen": "K21.9",
+      "cie_diferencial": "I20.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Enfermedad por Reflujo Gastroes"
+    },
+    {
+      "diferencial": "Esofagitis Eosinofílica",
+      "cie_origen": "K21.9",
+      "cie_diferencial": "K20.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Enfermedad por Reflujo Gastroes"
+    },
+    {
+      "diferencial": "Espasmo Esofágico (Nutcracker)",
+      "cie_origen": "K21.9",
+      "cie_diferencial": "K22.4",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Enfermedad por Reflujo Gastroes"
+    },
+    {
+      "diferencial": "Cáncer de Esófago",
+      "cie_origen": "K21.9",
+      "cie_diferencial": "C15.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Enfermedad por Reflujo Gastroes"
+    },
+    {
+      "diferencial": "Esofagitis Infecciosa (Candida/Herpes)",
+      "cie_origen": "K21.9",
+      "cie_diferencial": "B37.81 / B00.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Enfermedad por Reflujo Gastroes"
+    },
+    {
+      "diferencial": "Acalasia (Condición Alternativa)",
+      "cie_origen": "K21.9",
+      "cie_diferencial": "K22.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Enfermedad por Reflujo Gastroes"
+    }
+  ],
+  "Rinitis Alérgica": [
+    {
+      "diferencial": "Rinitis Vasomotora (No alérgica)",
+      "cie_origen": "J30.9",
+      "cie_diferencial": "J30.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Rinitis Alérgica J30.9"
+    },
+    {
+      "diferencial": "Rinitis Infecciosa (Resfriado Común)",
+      "cie_origen": "J30.9",
+      "cie_diferencial": "J00",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Rinitis Alérgica J30.9"
+    },
+    {
+      "diferencial": "Sinusitis Aguda / Crónica",
+      "cie_origen": "J30.9",
+      "cie_diferencial": "J01.9 / J32.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Rinitis Alérgica J30.9"
+    },
+    {
+      "diferencial": "Pólipos Nasales",
+      "cie_origen": "J30.9",
+      "cie_diferencial": "J33.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Rinitis Alérgica J30.9"
+    },
+    {
+      "diferencial": "Rinitis Medicamentosa",
+      "cie_origen": "J30.9",
+      "cie_diferencial": "J30.9 (Causa Química)",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Rinitis Alérgica J30.9"
+    },
+    {
+      "diferencial": "Desviación del Tabique Nasal",
+      "cie_origen": "J30.9",
+      "cie_diferencial": "J34.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Rinitis Alérgica J30.9"
+    },
+    {
+      "diferencial": "Cuerpo Extraño en la Nariz",
+      "cie_origen": "J30.9",
+      "cie_diferencial": "T17.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Rinitis Alérgica J30.9"
+    },
+    {
+      "diferencial": "Hipertrofia de Cornetes",
+      "cie_origen": "J30.9",
+      "cie_diferencial": "J34.3",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Rinitis Alérgica J30.9"
+    }
+  ],
+  "Sinusitis (Rinosinusitis)": [
+    {
+      "diferencial": "Rinitis Alérgica",
+      "cie_origen": "J01.9 / J32.9",
+      "cie_diferencial": "J30.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Sinusitis (Rinosinusitis) J01.9"
+    },
+    {
+      "diferencial": "Resfriado Común (URI Viral)",
+      "cie_origen": "J01.9 / J32.9",
+      "cie_diferencial": "J00",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Sinusitis (Rinosinusitis) J01.9"
+    },
+    {
+      "diferencial": "Pólipos Nasales",
+      "cie_origen": "J01.9 / J32.9",
+      "cie_diferencial": "J33.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Sinusitis (Rinosinusitis) J01.9"
+    },
+    {
+      "diferencial": "Infección Dental (Absceso Periapical)",
+      "cie_origen": "J01.9 / J32.9",
+      "cie_diferencial": "K04.7",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Sinusitis (Rinosinusitis) J01.9"
+    },
+    {
+      "diferencial": "Cuerpo Extraño Nasal",
+      "cie_origen": "J01.9 / J32.9",
+      "cie_diferencial": "T17.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Sinusitis (Rinosinusitis) J01.9"
+    },
+    {
+      "diferencial": "Fibrosis Quística",
+      "cie_origen": "J01.9 / J32.9",
+      "cie_diferencial": "E84.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Sinusitis (Rinosinusitis) J01.9"
+    },
+    {
+      "diferencial": "Inmunodeficiencia",
+      "cie_origen": "J01.9 / J32.9",
+      "cie_diferencial": "D84.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Sinusitis (Rinosinusitis) J01.9"
+    },
+    {
+      "diferencial": "Discinesia Ciliar Primaria",
+      "cie_origen": "J01.9 / J32.9",
+      "cie_diferencial": "Q67.8",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Sinusitis (Rinosinusitis) J01.9"
+    }
+  ],
+  "Enfermedad de Kawasaki": [
+    {
+      "diferencial": "Fiebre Escarlatina (Scarlet fever)",
+      "cie_origen": "M30.3",
+      "cie_diferencial": "A38",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Enfermedad de Kawasaki M30.3"
+    },
+    {
+      "diferencial": "Síndrome de Stevens-Johnson",
+      "cie_origen": "M30.3",
+      "cie_diferencial": "L51.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Enfermedad de Kawasaki M30.3"
+    },
+    {
+      "diferencial": "Choque Séptico Bacteriano",
+      "cie_origen": "M30.3",
+      "cie_diferencial": "A41.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Enfermedad de Kawasaki M30.3"
+    },
+    {
+      "diferencial": "Sarampión (Measles)",
+      "cie_origen": "M30.3",
+      "cie_diferencial": "B05.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Enfermedad de Kawasaki M30.3"
+    },
+    {
+      "diferencial": "MIS-C (Asociado a COVID-19)",
+      "cie_origen": "M30.3",
+      "cie_diferencial": "U10.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Enfermedad de Kawasaki M30.3"
+    },
+    {
+      "diferencial": "Fiebre de las Montañas Rocosas",
+      "cie_origen": "M30.3",
+      "cie_diferencial": "A77.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Enfermedad de Kawasaki M30.3"
+    },
+    {
+      "diferencial": "Artritis Idiopática Juvenil Sistémica",
+      "cie_origen": "M30.3",
+      "cie_diferencial": "M08.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Enfermedad de Kawasaki M30.3"
+    },
+    {
+      "diferencial": "Infección por Adenovirus",
+      "cie_origen": "M30.3",
+      "cie_diferencial": "B34.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Enfermedad de Kawasaki M30.3"
+    },
+    {
+      "diferencial": "Enfermedad de Behçet",
+      "cie_origen": "M30.3",
+      "cie_diferencial": "M35.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Enfermedad de Kawasaki M30.3"
+    },
+    {
+      "diferencial": "Leptospirosis",
+      "cie_origen": "M30.3",
+      "cie_diferencial": "A27.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Enfermedad de Kawasaki M30.3"
+    }
+  ],
+  "Síndrome de Stevens-Johnson": [
+    {
+      "diferencial": "Necrólisis Epidérmica Tóxica (TEN)",
+      "cie_origen": "L51.1",
+      "cie_diferencial": "L51.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Síndrome de Stevens-Johnson L51"
+    },
+    {
+      "diferencial": "Eritema Multiforme",
+      "cie_origen": "L51.1",
+      "cie_diferencial": "L51.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Síndrome de Stevens-Johnson L51"
+    },
+    {
+      "diferencial": "Síndrome de Shock Tóxico",
+      "cie_origen": "L51.1",
+      "cie_diferencial": "A48.3",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Síndrome de Stevens-Johnson L51"
+    },
+    {
+      "diferencial": "Enfermedad de Kawasaki",
+      "cie_origen": "L51.1",
+      "cie_diferencial": "M30.3",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Síndrome de Stevens-Johnson L51"
+    },
+    {
+      "diferencial": "Pénfigo Vulgar",
+      "cie_origen": "L51.1",
+      "cie_diferencial": "L10.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Síndrome de Stevens-Johnson L51"
+    },
+    {
+      "diferencial": "Síndrome de la Piel Escaldada Estafilocócica",
+      "cie_origen": "L51.1",
+      "cie_diferencial": "L00",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Síndrome de Stevens-Johnson L51"
+    },
+    {
+      "diferencial": "Reacción a Medicamento con Eosinofilia (DRESS)",
+      "cie_origen": "L51.1",
+      "cie_diferencial": "L27.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Síndrome de Stevens-Johnson L51"
+    },
+    {
+      "diferencial": "Exantema Fijo Medicamentoso",
+      "cie_origen": "L51.1",
+      "cie_diferencial": "L27.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Síndrome de Stevens-Johnson L51"
+    }
+  ],
+  "Estomatitis Aftosa": [
+    {
+      "diferencial": "Enfermedad de Behçet",
+      "cie_origen": "K12.0",
+      "cie_diferencial": "M35.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Estomatitis Aftosa K12.0"
+    },
+    {
+      "diferencial": "Herpes Simple Oral (Gingivoestomatitis)",
+      "cie_origen": "K12.0",
+      "cie_diferencial": "B00.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Estomatitis Aftosa K12.0"
+    },
+    {
+      "diferencial": "Herpangina (Coxsackievirus)",
+      "cie_origen": "K12.0",
+      "cie_diferencial": "B08.5",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Estomatitis Aftosa K12.0"
+    },
+    {
+      "diferencial": "Síndrome de Stevens-Johnson",
+      "cie_origen": "K12.0",
+      "cie_diferencial": "L51.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Estomatitis Aftosa K12.0"
+    },
+    {
+      "diferencial": "Enfermedad de Crohn (Manifestación oral)",
+      "cie_origen": "K12.0",
+      "cie_diferencial": "K50.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Estomatitis Aftosa K12.0"
+    },
+    {
+      "diferencial": "Enfermedad Celíaca",
+      "cie_origen": "K12.0",
+      "cie_diferencial": "K90.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Estomatitis Aftosa K12.0"
+    },
+    {
+      "diferencial": "Úlcera Traumática",
+      "cie_origen": "K12.0",
+      "cie_diferencial": "K12.0 (Subtipo)",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Estomatitis Aftosa K12.0"
+    },
+    {
+      "diferencial": "Neutropenia Cíclica",
+      "cie_origen": "K12.0",
+      "cie_diferencial": "D70.4",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Estomatitis Aftosa K12.0"
+    }
+  ],
+  "Angioedema": [
+    {
+      "diferencial": "Anafilaxia",
+      "cie_origen": "T78.3 / D84.1",
+      "cie_diferencial": "T78.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Angioedema T78.3 D84.1"
+    },
+    {
+      "diferencial": "Urticaria Aguda",
+      "cie_origen": "T78.3 / D84.1",
+      "cie_diferencial": "L50.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Angioedema T78.3 D84.1"
+    },
+    {
+      "diferencial": "Celulitis Facial",
+      "cie_origen": "T78.3 / D84.1",
+      "cie_diferencial": "L03.21",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Angioedema T78.3 D84.1"
+    },
+    {
+      "diferencial": "Erisipela",
+      "cie_origen": "T78.3 / D84.1",
+      "cie_diferencial": "A46",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Angioedema T78.3 D84.1"
+    },
+    {
+      "diferencial": "Dermatitis de Contacto Aguda",
+      "cie_origen": "T78.3 / D84.1",
+      "cie_diferencial": "L23.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Angioedema T78.3 D84.1"
+    },
+    {
+      "diferencial": "Síndrome de la Vena Cava Superior",
+      "cie_origen": "T78.3 / D84.1",
+      "cie_diferencial": "I87.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Angioedema T78.3 D84.1"
+    },
+    {
+      "diferencial": "Hipotiroidismo (Mixedema)",
+      "cie_origen": "T78.3 / D84.1",
+      "cie_diferencial": "E03.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Angioedema T78.3 D84.1"
+    },
+    {
+      "diferencial": "Queilitis Granulomatosa",
+      "cie_origen": "T78.3 / D84.1",
+      "cie_diferencial": "K13.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Angioedema T78.3 D84.1"
+    }
+  ],
+  "Otitis Media Aguda (OMA)": [
+    {
+      "diferencial": "Otitis Media con Efusión (OME)",
+      "cie_origen": "H66.0 / H66.9",
+      "cie_diferencial": "H65.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Otitis Media Aguda (OMA) H66.0"
+    },
+    {
+      "diferencial": "Otitis Externa Aguda",
+      "cie_origen": "H66.0 / H66.9",
+      "cie_diferencial": "H60.3",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Otitis Media Aguda (OMA) H66.0"
+    },
+    {
+      "diferencial": "Miringitis Bullosa",
+      "cie_origen": "H66.0 / H66.9",
+      "cie_diferencial": "H73.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Otitis Media Aguda (OMA) H66.0"
+    },
+    {
+      "diferencial": "Mastoiditis Aguda",
+      "cie_origen": "H66.0 / H66.9",
+      "cie_diferencial": "H70.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Otitis Media Aguda (OMA) H66.0"
+    },
+    {
+      "diferencial": "Disfunción de la Articulación Temporomandibular",
+      "cie_origen": "H66.0 / H66.9",
+      "cie_diferencial": "M26.6",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Otitis Media Aguda (OMA) H66.0"
+    },
+    {
+      "diferencial": "Barotrauma del Oído Medio",
+      "cie_origen": "H66.0 / H66.9",
+      "cie_diferencial": "T70.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Otitis Media Aguda (OMA) H66.0"
+    },
+    {
+      "diferencial": "Faringitis (como causa de dolor referido)",
+      "cie_origen": "H66.0 / H66.9",
+      "cie_diferencial": "J02.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Otitis Media Aguda (OMA) H66.0"
+    }
+  ],
+  "Aspiración de Cuerpo Extraño": [
+    {
+      "diferencial": "Crup (Laringotraqueítis)",
+      "cie_origen": "T17.9",
+      "cie_diferencial": "J05.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Aspiración de Cuerpo Extraño T1"
+    },
+    {
+      "diferencial": "Asma Bronquial (Sibilancias recurrentes)",
+      "cie_origen": "T17.9",
+      "cie_diferencial": "J45.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Aspiración de Cuerpo Extraño T1"
+    },
+    {
+      "diferencial": "Neumonía Bacteriana / por Aspiración",
+      "cie_origen": "T17.9",
+      "cie_diferencial": "J15.9 / J69.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Aspiración de Cuerpo Extraño T1"
+    },
+    {
+      "diferencial": "Bronquiolitis Aguda",
+      "cie_origen": "T17.9",
+      "cie_diferencial": "J21.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Aspiración de Cuerpo Extraño T1"
+    },
+    {
+      "diferencial": "Epiglotitis Aguda",
+      "cie_origen": "T17.9",
+      "cie_diferencial": "J05.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Aspiración de Cuerpo Extraño T1"
+    },
+    {
+      "diferencial": "Traqueítis Bacteriana",
+      "cie_origen": "T17.9",
+      "cie_diferencial": "J04.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Aspiración de Cuerpo Extraño T1"
+    }
+  ],
+  "Ingestión de Cuerpo Extraño": [
+    {
+      "diferencial": "Esofagitis Eosinofílica",
+      "cie_origen": "T18.9",
+      "cie_diferencial": "K20.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Aspiración de Cuerpo Extraño T1"
+    },
+    {
+      "diferencial": "ERGE (Reflujo Gastroesofágico)",
+      "cie_origen": "T18.9",
+      "cie_diferencial": "K21.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Aspiración de Cuerpo Extraño T1"
+    }
+  ],
+  "Laringomalacia": [
+    {
+      "diferencial": "Parálisis de Cuerdas Vocales (Uni/Bilateral)",
+      "cie_origen": "",
+      "cie_diferencial": "J38.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Laringomalacia Q31.5"
+    },
+    {
+      "diferencial": "Papilomatosis Laríngea",
+      "cie_origen": "",
+      "cie_diferencial": "D14.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Laringomalacia Q31.5"
+    },
+    {
+      "diferencial": "Hemangioma Subglótico",
+      "cie_origen": "",
+      "cie_diferencial": "D18.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Laringomalacia Q31.5"
+    },
+    {
+      "diferencial": "Estenosis Subglótica",
+      "cie_origen": "",
+      "cie_diferencial": "J38.6",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Laringomalacia Q31.5"
+    },
+    {
+      "diferencial": "Traqueomalacia o Broncomalacia",
+      "cie_origen": "",
+      "cie_diferencial": "Q32.0 / Q32.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Laringomalacia Q31.5"
+    },
+    {
+      "diferencial": "Anillo Vascular",
+      "cie_origen": "",
+      "cie_diferencial": "Q25.4",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Laringomalacia Q31.5"
+    },
+    {
+      "diferencial": "Aspiración de Cuerpo Extraño",
+      "cie_origen": "",
+      "cie_diferencial": "T17.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Laringomalacia Q31.5"
+    }
+  ],
+  "Estenosis Subglótica": [
+    {
+      "diferencial": "Crup (Laringotraqueítis)",
+      "cie_origen": "",
+      "cie_diferencial": "J05.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Estenosis Subglótica J38.6"
+    },
+    {
+      "diferencial": "Traqueítis Bacteriana",
+      "cie_origen": "",
+      "cie_diferencial": "J04.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Estenosis Subglótica J38.6"
+    },
+    {
+      "diferencial": "Parálisis de Cuerdas Vocales",
+      "cie_origen": "",
+      "cie_diferencial": "J38.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Estenosis Subglótica J38.6"
+    },
+    {
+      "diferencial": "Granulomatosis con Poliangeítis (Wegener)",
+      "cie_origen": "",
+      "cie_diferencial": "M31.3",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Estenosis Subglótica J38.6"
+    },
+    {
+      "diferencial": "Hemangioma Subglótico",
+      "cie_origen": "",
+      "cie_diferencial": "D18.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Estenosis Subglótica J38.6"
+    },
+    {
+      "diferencial": "Sarcoidosis (Afectación laríngea)",
+      "cie_origen": "",
+      "cie_diferencial": "D86.8",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Estenosis Subglótica J38.6"
+    },
+    {
+      "diferencial": "Aspiración de Cuerpo Extraño",
+      "cie_origen": "",
+      "cie_diferencial": "T17.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Estenosis Subglótica J38.6"
+    },
+    {
+      "diferencial": "Laringomalacia",
+      "cie_origen": "",
+      "cie_diferencial": "Q31.5",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Estenosis Subglótica J38.6"
+    },
+    {
+      "diferencial": "Tuberculosis (Traqueobronquial)",
+      "cie_origen": "",
+      "cie_diferencial": "A15.5",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Estenosis Subglótica J38.6"
+    },
+    {
+      "diferencial": "Amiloidosis Laríngea",
+      "cie_origen": "",
+      "cie_diferencial": "E85.4",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Estenosis Subglótica J38.6"
+    }
+  ],
+  "Hemangioma Subglótico": [
+    {
+      "diferencial": "Crup (Laringotraqueítis)",
+      "cie_origen": "",
+      "cie_diferencial": "J05.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Hemangioma Subglótico D18.0"
+    },
+    {
+      "diferencial": "Estenosis Subglótica",
+      "cie_origen": "",
+      "cie_diferencial": "J38.6",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Hemangioma Subglótico D18.0"
+    },
+    {
+      "diferencial": "Laringomalacia",
+      "cie_origen": "",
+      "cie_diferencial": "Q31.5",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Hemangioma Subglótico D18.0"
+    },
+    {
+      "diferencial": "Malformaciones Cardíacas (S. de PHACE)",
+      "cie_origen": "",
+      "cie_diferencial": "Q24.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Hemangioma Subglótico D18.0"
+    },
+    {
+      "diferencial": "Hemangioma Cutáneo (Distribución en \"barba\")",
+      "cie_origen": "",
+      "cie_diferencial": "D18.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Hemangioma Subglótico D18.0"
+    },
+    {
+      "diferencial": "Aspiración de Cuerpo Extraño",
+      "cie_origen": "",
+      "cie_diferencial": "T17.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Hemangioma Subglótico D18.0"
+    }
+  ],
+  "Difteria Laríngea": [
+    {
+      "diferencial": "Crup (Laringotraqueítis Viral)",
+      "cie_origen": "A36.2",
+      "cie_diferencial": "J05.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Difteria Laríngea A36.2"
+    },
+    {
+      "diferencial": "Epiglotitis Aguda",
+      "cie_origen": "A36.2",
+      "cie_diferencial": "J05.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Difteria Laríngea A36.2"
+    },
+    {
+      "diferencial": "Traqueítis Bacteriana",
+      "cie_origen": "A36.2",
+      "cie_diferencial": "J04.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Difteria Laríngea A36.2"
+    },
+    {
+      "diferencial": "Mononucleosis Infecciosa (Faringitis Membranosa)",
+      "cie_origen": "A36.2",
+      "cie_diferencial": "B27.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Difteria Laríngea A36.2"
+    },
+    {
+      "diferencial": "Absceso Retrofaríngeo",
+      "cie_origen": "A36.2",
+      "cie_diferencial": "J39.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Difteria Laríngea A36.2"
+    },
+    {
+      "diferencial": "Absceso Periamigdalino",
+      "cie_origen": "A36.2",
+      "cie_diferencial": "J36",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Difteria Laríngea A36.2"
+    },
+    {
+      "diferencial": "Aspiración de Cuerpo Extraño",
+      "cie_origen": "A36.2",
+      "cie_diferencial": "T17.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Difteria Laríngea A36.2"
+    },
+    {
+      "diferencial": "Angina de Vincent (Gingivitis Ulceronecrotizante)",
+      "cie_origen": "A36.2",
+      "cie_diferencial": "A69.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Difteria Laríngea A36.2"
+    }
+  ],
+  "Angina de Ludwig": [
+    {
+      "diferencial": "Absceso Periamigdalino",
+      "cie_origen": "K12.2",
+      "cie_diferencial": "J36",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Angina de Ludwig K12.2"
+    },
+    {
+      "diferencial": "Absceso Retrofaríngeo",
+      "cie_origen": "K12.2",
+      "cie_diferencial": "J39.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Angina de Ludwig K12.2"
+    },
+    {
+      "diferencial": "Epiglotitis Aguda",
+      "cie_origen": "K12.2",
+      "cie_diferencial": "J05.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Angina de Ludwig K12.2"
+    },
+    {
+      "diferencial": "Angioedema",
+      "cie_origen": "K12.2",
+      "cie_diferencial": "T78.3",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Angina de Ludwig K12.2"
+    },
+    {
+      "diferencial": "Celulitis Cervical / Facial",
+      "cie_origen": "K12.2",
+      "cie_diferencial": "L03.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Angina de Ludwig K12.2"
+    },
+    {
+      "diferencial": "Sialolitiasis (Glándula Submandibular)",
+      "cie_origen": "K12.2",
+      "cie_diferencial": "K11.5",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Angina de Ludwig K12.2"
+    },
+    {
+      "diferencial": "Absceso Dental (Infección Odontogénica)",
+      "cie_origen": "K12.2",
+      "cie_diferencial": "K04.7",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Angina de Ludwig K12.2"
+    },
+    {
+      "diferencial": "Otitis Media",
+      "cie_origen": "K12.2",
+      "cie_diferencial": "H66.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Angina de Ludwig K12.2"
+    }
+  ],
+  "Meningitis Bacteriana": [
+    {
+      "diferencial": "Endocarditis Infecciosa / Bacteremia",
+      "cie_origen": "G00.9",
+      "cie_diferencial": "I33.0 / A41.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Meningitis Bacteriana G00.9"
+    },
+    {
+      "diferencial": "Tumor Intracraneal (Neoplasia)",
+      "cie_origen": "G00.9",
+      "cie_diferencial": "D33.3 / C71.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Meningitis Bacteriana G00.9"
+    },
+    {
+      "diferencial": "Enfermedad de Lyme",
+      "cie_origen": "G00.9",
+      "cie_diferencial": "A69.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Meningitis Bacteriana G00.9"
+    },
+    {
+      "diferencial": "Absceso Cerebral",
+      "cie_origen": "G00.9",
+      "cie_diferencial": "G06.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Meningitis Bacteriana G00.9"
+    },
+    {
+      "diferencial": "Lupus Eritematoso Sistémico (LES)",
+      "cie_origen": "G00.9",
+      "cie_diferencial": "M32.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Meningitis Bacteriana G00.9"
+    },
+    {
+      "diferencial": "Mononucleosis Infecciosa Aguda",
+      "cie_origen": "G00.9",
+      "cie_diferencial": "B27.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Meningitis Bacteriana G00.9"
+    },
+    {
+      "diferencial": "Hemorragia Subaracnoidea",
+      "cie_origen": "G00.9",
+      "cie_diferencial": "I60.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Meningitis Bacteriana G00.9"
+    },
+    {
+      "diferencial": "Púrpura de Henoch-Schönlein",
+      "cie_origen": "G00.9",
+      "cie_diferencial": "D69.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Meningitis Bacteriana G00.9"
+    },
+    {
+      "diferencial": "Sífilis Secundaria",
+      "cie_origen": "G00.9",
+      "cie_diferencial": "A51.3",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Meningitis Bacteriana G00.9"
+    },
+    {
+      "diferencial": "Fiebre de las Montañas Rocosas",
+      "cie_origen": "G00.9",
+      "cie_diferencial": "A77.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Meningitis Bacteriana G00.9"
+    }
+  ],
+  "Osteomielitis Cervical": [
+    {
+      "diferencial": "Brucelosis",
+      "cie_origen": "",
+      "cie_diferencial": "A23",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Osteomielitis Cervical"
+    },
+    {
+      "diferencial": "Tuberculosis (Enfermedad de Pott)",
+      "cie_origen": "",
+      "cie_diferencial": "A18.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Osteomielitis Cervical"
+    },
+    {
+      "diferencial": "Artritis Séptica",
+      "cie_origen": "",
+      "cie_diferencial": "M00",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Osteomielitis Cervical"
+    },
+    {
+      "diferencial": "Celulitis",
+      "cie_origen": "",
+      "cie_diferencial": "L03",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Osteomielitis Cervical"
+    },
+    {
+      "diferencial": "Meningitis",
+      "cie_origen": "",
+      "cie_diferencial": "G00",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Osteomielitis Cervical"
+    },
+    {
+      "diferencial": "Endocarditis",
+      "cie_origen": "",
+      "cie_diferencial": "I33",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Osteomielitis Cervical"
+    },
+    {
+      "diferencial": "Pericarditis",
+      "cie_origen": "",
+      "cie_diferencial": "I30",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Osteomielitis Cervical"
+    },
+    {
+      "diferencial": "Neumonía con Empiema",
+      "cie_origen": "",
+      "cie_diferencial": "J86",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Osteomielitis Cervical"
+    },
+    {
+      "diferencial": "Tromboflebitis Séptica",
+      "cie_origen": "",
+      "cie_diferencial": "I80",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Osteomielitis Cervical"
+    }
+  ],
+  "Enfermedad de Pott": [
+    {
+      "diferencial": "Fractura Patológica por Tumor",
+      "cie_origen": "",
+      "cie_diferencial": "M49.5 / C79.5",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Enfermedad de Pott A18.0"
+    },
+    {
+      "diferencial": "Osteomielitis Bacteriana Piógena",
+      "cie_origen": "",
+      "cie_diferencial": "M46.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Enfermedad de Pott A18.0"
+    },
+    {
+      "diferencial": "Espondilitis Fúngica",
+      "cie_origen": "",
+      "cie_diferencial": "M49.3",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Enfermedad de Pott A18.0"
+    }
+  ],
+  "Neumonía Bacteriana": [
+    {
+      "diferencial": "Neumonía Viral",
+      "cie_origen": "J15.9",
+      "cie_diferencial": "J12.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Neumonía Bacteriana J15.9"
+    },
+    {
+      "diferencial": "Neumonía por Aspiración",
+      "cie_origen": "J15.9",
+      "cie_diferencial": "J69.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Neumonía Bacteriana J15.9"
+    },
+    {
+      "diferencial": "Exacerbación de Bronquitis Crónica",
+      "cie_origen": "J15.9",
+      "cie_diferencial": "J42",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Neumonía Bacteriana J15.9"
+    },
+    {
+      "diferencial": "Embolia o Infarto Pulmonar",
+      "cie_origen": "J15.9",
+      "cie_diferencial": "I26.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Neumonía Bacteriana J15.9"
+    },
+    {
+      "diferencial": "Neoplasia Pulmonar (Cáncer de Pulmón)",
+      "cie_origen": "J15.9",
+      "cie_diferencial": "C34.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Neumonía Bacteriana J15.9"
+    },
+    {
+      "diferencial": "Bronquiolitis",
+      "cie_origen": "J15.9",
+      "cie_diferencial": "J21.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Neumonía Bacteriana J15.9"
+    },
+    {
+      "diferencial": "Sarcoidosis",
+      "cie_origen": "J15.9",
+      "cie_diferencial": "D86.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Neumonía Bacteriana J15.9"
+    },
+    {
+      "diferencial": "Neumonitis por Hipersensibilidad",
+      "cie_origen": "J15.9",
+      "cie_diferencial": "J67.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Neumonía Bacteriana J15.9"
+    },
+    {
+      "diferencial": "Edema Pulmonar",
+      "cie_origen": "J15.9",
+      "cie_diferencial": "J81.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Neumonía Bacteriana J15.9"
+    },
+    {
+      "diferencial": "Lesión Pulmonar Inducida por Drogas",
+      "cie_origen": "J15.9",
+      "cie_diferencial": "J70.4",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Neumonía Bacteriana J15.9"
+    },
+    {
+      "diferencial": "Neumonía Fúngica",
+      "cie_origen": "J15.9",
+      "cie_diferencial": "B48.8",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Neumonía Bacteriana J15.9"
+    },
+    {
+      "diferencial": "Tuberculosis",
+      "cie_origen": "J15.9",
+      "cie_diferencial": "A15.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Neumonía Bacteriana J15.9"
+    }
+  ],
+  "Infección por Citomegalovirus": [
+    {
+      "diferencial": "Mononucleosis Infecciosa (EBV)",
+      "cie_origen": "B25.9 / P35.1",
+      "cie_diferencial": "B27.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por Citomegalovirus B"
+    },
+    {
+      "diferencial": "Toxoplasmosis",
+      "cie_origen": "B25.9 / P35.1",
+      "cie_diferencial": "B58.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por Citomegalovirus B"
+    },
+    {
+      "diferencial": "Infección Aguda por VIH (Síndrome Retroviral)",
+      "cie_origen": "B25.9 / P35.1",
+      "cie_diferencial": "B20",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por Citomegalovirus B"
+    },
+    {
+      "diferencial": "Hepatitis Viral (A, B o C)",
+      "cie_origen": "B25.9 / P35.1",
+      "cie_diferencial": "B15 - B19",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por Citomegalovirus B"
+    },
+    {
+      "diferencial": "Rubéola Congénita",
+      "cie_origen": "B25.9 / P35.1",
+      "cie_diferencial": "P35.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por Citomegalovirus B"
+    },
+    {
+      "diferencial": "Sífilis Congénita",
+      "cie_origen": "B25.9 / P35.1",
+      "cie_diferencial": "A50.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por Citomegalovirus B"
+    },
+    {
+      "diferencial": "Herpes Simple (Neonatal/TORCH)",
+      "cie_origen": "B25.9 / P35.1",
+      "cie_diferencial": "P35.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por Citomegalovirus B"
+    },
+    {
+      "diferencial": "Linfoma",
+      "cie_origen": "B25.9 / P35.1",
+      "cie_diferencial": "C85.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por Citomegalovirus B"
+    }
+  ],
+  "Toxoplasmosis": [
+    {
+      "diferencial": "Mononucleosis Infecciosa",
+      "cie_origen": "B58.9",
+      "cie_diferencial": "B27.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Toxoplasmosis B58.9"
+    },
+    {
+      "diferencial": "Infección por Citomegalovirus (CMV)",
+      "cie_origen": "B58.9",
+      "cie_diferencial": "B27.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Toxoplasmosis B58.9"
+    },
+    {
+      "diferencial": "Enfermedad por Arañazo de Gato",
+      "cie_origen": "B58.9",
+      "cie_diferencial": "A28.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Toxoplasmosis B58.9"
+    },
+    {
+      "diferencial": "Sarcoidosis",
+      "cie_origen": "B58.9",
+      "cie_diferencial": "D86.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Toxoplasmosis B58.9"
+    },
+    {
+      "diferencial": "Tuberculosis",
+      "cie_origen": "B58.9",
+      "cie_diferencial": "A15.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Toxoplasmosis B58.9"
+    },
+    {
+      "diferencial": "Linfoma",
+      "cie_origen": "B58.9",
+      "cie_diferencial": "C85.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Toxoplasmosis B58.9"
+    }
+  ],
+  "Toxoplasmosis (SNC)": [
+    {
+      "diferencial": "Absceso Bacteriano",
+      "cie_origen": "B58.9",
+      "cie_diferencial": "G06.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Toxoplasmosis B58.9"
+    }
+  ],
+  "Toxoplasmosis (Ocular)": [
+    {
+      "diferencial": "Sífilis",
+      "cie_origen": "B58.9",
+      "cie_diferencial": "A51.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Toxoplasmosis B58.9"
+    },
+    {
+      "diferencial": "Herpes Simple",
+      "cie_origen": "B58.9",
+      "cie_diferencial": "B00.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Toxoplasmosis B58.9"
+    }
+  ],
+  "Toxoplasmosis (Pulmonar)": [
+    {
+      "diferencial": "Neumonía por Pneumocystis jirovecii",
+      "cie_origen": "B58.3",
+      "cie_diferencial": "B59",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Toxoplasmosis B58.9"
+    }
+  ],
+  "Toxoplasmosis Congénita": [
+    {
+      "diferencial": "Rubéola Congénita",
+      "cie_origen": "P37.1",
+      "cie_diferencial": "P35.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Toxoplasmosis B58.9"
+    },
+    {
+      "diferencial": "Listeriosis",
+      "cie_origen": "P37.1",
+      "cie_diferencial": "A32.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Toxoplasmosis B58.9"
+    }
+  ],
+  "Linfoma No Hodgkin": [
+    {
+      "diferencial": "Linfoma de Hodgkin",
+      "cie_origen": "C85.9",
+      "cie_diferencial": "C81",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Linfoma No Hodgkin C85.9"
+    },
+    {
+      "diferencial": "Infecciones Virales (ej. Mononucleosis)",
+      "cie_origen": "C85.9",
+      "cie_diferencial": "B27.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Linfoma No Hodgkin C85.9"
+    },
+    {
+      "diferencial": "Carcinoma Metastásico",
+      "cie_origen": "C85.9",
+      "cie_diferencial": "C78 - C79",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Linfoma No Hodgkin C85.9"
+    },
+    {
+      "diferencial": "Sarcoidosis",
+      "cie_origen": "C85.9",
+      "cie_diferencial": "D86.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Linfoma No Hodgkin C85.9"
+    },
+    {
+      "diferencial": "Condiciones Autoinmunes",
+      "cie_origen": "C85.9",
+      "cie_diferencial": "M32 - M35",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Linfoma No Hodgkin C85.9"
+    }
+  ],
+  "Infección por VIH": [
+    {
+      "diferencial": "Mononucleosis Infecciosa (Fase aguda)",
+      "cie_origen": "B20",
+      "cie_diferencial": "B27.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por VIH B20"
+    },
+    {
+      "diferencial": "Tuberculosis (Fase tardía)",
+      "cie_origen": "B20",
+      "cie_diferencial": "A15",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por VIH B20"
+    },
+    {
+      "diferencial": "Linfoma No Hodgkin / Neoplasias",
+      "cie_origen": "B20",
+      "cie_diferencial": "C85.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por VIH B20"
+    },
+    {
+      "diferencial": "Diseminación de Candida / Hongos",
+      "cie_origen": "B20",
+      "cie_diferencial": "B37",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por VIH B20"
+    },
+    {
+      "diferencial": "Enfermedad de Alzheimer (Encefalopatía)",
+      "cie_origen": "B20",
+      "cie_diferencial": "G30",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por VIH B20"
+    },
+    {
+      "diferencial": "Esclerosis Múltiple (Mielopatía/Neuropatía)",
+      "cie_origen": "B20",
+      "cie_diferencial": "G35",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por VIH B20"
+    },
+    {
+      "diferencial": "Infección Aguda por Citomegalovirus (CMV)",
+      "cie_origen": "B20",
+      "cie_diferencial": "B25",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por VIH B20"
+    },
+    {
+      "diferencial": "Toxoplasmosis Cerebral",
+      "cie_origen": "B20",
+      "cie_diferencial": "B58.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por VIH B20"
+    }
+  ],
+  "Infección por HHV-6 (Roseola)": [
+    {
+      "diferencial": "Infección por Citomegalovirus (CMV)",
+      "cie_origen": "",
+      "cie_diferencial": "B25.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por HHV-6 (Roseola) B"
+    },
+    {
+      "diferencial": "Mononucleosis Infecciosa (EBV)",
+      "cie_origen": "",
+      "cie_diferencial": "B27.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por HHV-6 (Roseola) B"
+    },
+    {
+      "diferencial": "Infección por HHV-7",
+      "cie_origen": "",
+      "cie_diferencial": "B08.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por HHV-6 (Roseola) B"
+    },
+    {
+      "diferencial": "Sarampión",
+      "cie_origen": "",
+      "cie_diferencial": "B05.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por HHV-6 (Roseola) B"
+    },
+    {
+      "diferencial": "Rubeola",
+      "cie_origen": "",
+      "cie_diferencial": "B06.9",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por HHV-6 (Roseola) B"
+    },
+    {
+      "diferencial": "Eritema Infeccioso (Quinta Enfermedad)",
+      "cie_origen": "",
+      "cie_diferencial": "B08.3",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por HHV-6 (Roseola) B"
+    },
+    {
+      "diferencial": "Escarlatina",
+      "cie_origen": "",
+      "cie_diferencial": "A38",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por HHV-6 (Roseola) B"
+    },
+    {
+      "diferencial": "Exantema Medicamentoso",
+      "cie_origen": "",
+      "cie_diferencial": "L27.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Infección por HHV-6 (Roseola) B"
+    }
+  ],
+  "Hepatitis Viral": [
+    {
+      "diferencial": "Hepatitis B (Aguda / Crónica)",
+      "cie_origen": "B15-B19",
+      "cie_diferencial": "B16 / B18.1",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Hepatitis Viral B15-B19"
+    },
+    {
+      "diferencial": "Hepatitis C (Aguda / Crónica)",
+      "cie_origen": "B15-B19",
+      "cie_diferencial": "B17.1 / B18.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Hepatitis Viral B15-B19"
+    },
+    {
+      "diferencial": "Hepatitis A",
+      "cie_origen": "B15-B19",
+      "cie_diferencial": "B15",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Hepatitis Viral B15-B19"
+    },
+    {
+      "diferencial": "Hepatitis E",
+      "cie_origen": "B15-B19",
+      "cie_diferencial": "B17.2",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Hepatitis Viral B15-B19"
+    },
+    {
+      "diferencial": "Hepatitis D (Delta)",
+      "cie_origen": "B15-B19",
+      "cie_diferencial": "B17.8",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Hepatitis Viral B15-B19"
+    },
+    {
+      "diferencial": "Enfermedad Hepática Alcohólica",
+      "cie_origen": "B15-B19",
+      "cie_diferencial": "K70",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Hepatitis Viral B15-B19"
+    },
+    {
+      "diferencial": "Hepatitis Autoinmune",
+      "cie_origen": "B15-B19",
+      "cie_diferencial": "K75.4",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Hepatitis Viral B15-B19"
+    },
+    {
+      "diferencial": "Esteatosis Hepática / Esteatohepatitis",
+      "cie_origen": "B15-B19",
+      "cie_diferencial": "K76.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Hepatitis Viral B15-B19"
+    },
+    {
+      "diferencial": "Cirrosis Hepática",
+      "cie_origen": "B15-B19",
+      "cie_diferencial": "K74.6",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Hepatitis Viral B15-B19"
+    },
+    {
+      "diferencial": "Carcinoma Hepatocelular (HCC)",
+      "cie_origen": "B15-B19",
+      "cie_diferencial": "C22.0",
+      "motivo": "",
+      "sistema_diferencial": "",
+      "hoja_fuente": "Hepatitis Viral B15-B19"
+    }
+  ]
+}
